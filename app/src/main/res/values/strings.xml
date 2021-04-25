@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hello_world</string>
+    <string name="inc_button">+</string>
+</resources>
